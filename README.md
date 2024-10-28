@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angga Diki Saputra</h1>
 <h3 align="center">A passionate software developer from Indonesia.</h3>
 
-- 🌱 I’m currently learning **Js stack and python**
+- 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **react,express and flask**
+- 💬 Ask me about **Web and Mobile Programming**
 
 - 📫 How to reach me **anggadikisaputraagung@gmail.com**
 
