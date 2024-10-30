@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anggadikisaputraagung@gmail.com**
 
-- ⚡ Fun fact **I was originally an extrovert but when I was in high school I started to get to know Japanese culture, I became an ambrivert and when I was in college I liked reading web novels and programming.**
+- ⚡ Fun fact **I was originally an ambrivert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
